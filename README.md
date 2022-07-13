@@ -18,6 +18,7 @@
 ### :woman_technologist:  About Me :
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I am a frontend web developer and i am passionate about challenges.
 - 🌱 I’m currently learning Algorithms & Data Structure.
+- 🔭 I’m solving problems in [HackerRank](https://github.com/Abir-Bouhriz/HackerRank-Solution).
 
 ---
 
