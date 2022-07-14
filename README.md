@@ -18,7 +18,7 @@
 ### :woman_technologist:  About Me :
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I am a frontend web developer and I am passionate about challenges.
 - 🌱 I’m currently learning Algorithms & Data Structure.
-- 🔭 I’m frontend intern at @Evercam.
+- 🔭 I’m frontend intern at Evercam.
 
 ---
 
