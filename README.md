@@ -16,9 +16,9 @@
 ---
 
 ### :woman_technologist:  About Me :
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I am a frontend web developer and i am passionate about challenges.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I am a frontend web developer and I am passionate about challenges.
 - 🌱 I’m currently learning Algorithms & Data Structure.
-- 🔭 I’m solving problems in [HackerRank](https://github.com/Abir-Bouhriz/HackerRank-Solution).
+- 🔭 I’m frontend intern at @Evercam.
 
 ---
 
@@ -34,4 +34,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abir-Bouhriz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
